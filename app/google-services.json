@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "37982204925",
+    "project_id": "urban-stores-4dfd0",
+    "storage_bucket": "urban-stores-4dfd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37982204925:android:bbe17fa929360bde739f94",
+        "android_client_info": {
+          "package_name": "com.android.otpgeneratorusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37982204925-d4eg56to37kb4lsn95sk6ltnfmnuukff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.otpgeneratorusingfirebase",
+            "certificate_hash": "6f8f1385357c0f9b336aeff2d23f7e87cff80d71"
+          }
+        },
+        {
+          "client_id": "37982204925-jqe6e8s7qtd9haotnkghi9mcvu65n1p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWYAfV-M1ojp6GXSghiQjHisVeH6fGJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37982204925-jqe6e8s7qtd9haotnkghi9mcvu65n1p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
